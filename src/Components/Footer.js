@@ -65,6 +65,26 @@ const Footer = () => {
                 contact@arhamalloy.com
               </a>
             </li>
+            <li className="mt-2">
+              <b>Spanish Subsidiary:</b>
+              <br />
+              <b>ARHAM ONEWORLD, S.L.</b>
+              <br />
+              Av. Diagonal 534, Planta 8, 08006 Barcelona (España) ·{" "}
+              <a
+                className="text-secondary"
+                href="mailto:arhamoneworldsl@gmail.com"
+              >
+                arhamoneworldsl@gmail.com
+              </a>{" "}
+              · +91 96504 85980
+              <br />
+              NIF: B26747709 · VAT: ESB26747709 · Socio único: Arham Recycling
+              Private Limited
+              <br />
+              Registro Mercantil de Barcelona, Hoja B-659743, IRUS
+              1000476163062, Inscripción 1ª
+            </li>
           </ListGroup>
         </Col>
         <Col sm="12" lg="2">

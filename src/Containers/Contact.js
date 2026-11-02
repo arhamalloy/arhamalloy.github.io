@@ -190,6 +190,38 @@ const Contact = () => {
             </Col>
           </Row>
         </Container>
+        <Container className="mt-2 mb-5">
+          <Row>
+            <Col sm="12">
+              <h4 className="text-gradient-primary font-weight-bold mb-3">
+                Spanish Subsidiary
+              </h4>
+              <h5 className="text-dark font-weight-bold mb-2">
+                ARHAM ONEWORLD, S.L.
+              </h5>
+              <p className="text-secondary mb-1">
+                Av. Diagonal 534, Planta 8, 08006 Barcelona (España)
+              </p>
+              <p className="text-secondary mb-1">
+                <a
+                  className="text-secondary"
+                  href="mailto:arhamoneworldsl@gmail.com"
+                >
+                  arhamoneworldsl@gmail.com
+                </a>{" "}
+                · +91 96504 85980
+              </p>
+              <p className="text-secondary mb-1">
+                NIF: B26747709 · VAT: ESB26747709 · Socio único: Arham Recycling
+                Private Limited
+              </p>
+              <p className="text-secondary mb-0">
+                Registro Mercantil de Barcelona, Hoja B-659743, IRUS
+                1000476163062, Inscripción 1ª
+              </p>
+            </Col>
+          </Row>
+        </Container>
       </Container>
     </LandingSection1>
   );
